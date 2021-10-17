@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "at.stefangaller"
+group = "dev.bettercoding"
 version = "1.0-SNAPSHOT"
 
 repositories {
